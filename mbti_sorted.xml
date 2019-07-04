@@ -1,0 +1,228 @@
+<root>
+
+<rule id='1' q='At a party do you' a='Interact with many, including strangers' b='Interact with a few, known to you'>
+</rule>
+
+<rule id='2' q='At parties do you' a='Stay late, with increasing energy' b='Leave early with decreased energy'>
+</rule>
+
+<rule id='3' q='In your social groups do you' a='Keep abreast of other’s happenings' b='Get behind on the news'>
+</rule>
+
+<rule id='4' q='In phoning do you' a='Rarely question that it will all be said' b='Rehearse what you’ll say'>
+</rule>
+
+<rule id='5' q='In company do you' a='Initiate conversation' b='Wait to be approached'>
+</rule>
+
+<rule id='6' q='Does new and non-routine interaction with others' a='Stimulate and energize you' b='Tax your reserves'>
+</rule>
+
+<rule id='7' q='Do you prefer' a='Many friends with brief contact' b='A few friends with more lengthy contact'>
+</rule>
+
+<rule id='8' q='Do you' a='Speak easily and at length with strangers' b='Find little to say to strangers'>
+</rule>
+
+<rule id='9' q='When the phone rings do you' a='Hasten to get to it first' b='Hope someone else will answer'>
+</rule>
+
+<rule id='10' q='Are you more inclined to be' a='Easy to approach' b='Somewhat reserved'>
+</rule>
+
+
+
+
+
+
+<rule id='11' q='Are you more' a='Realistic than speculative' b='Speculative than realistic'>
+</rule>
+
+<rule id='12' q='Is it worse to' a='Have your head in the clouds' b='Be in a rut'>
+</rule>
+
+<rule id='13' q='Are you more attracted to' a='Sensible people' b='Imaginative people'>
+</rule>
+
+<rule id='14' q='Are you more interested in' a='What is actual' b='What is possible'>
+</rule>
+
+<rule id='15' q='In doing ordinary things are you more likely to' a='Do it the usual way' b='Do it your own way'>
+</rule>
+
+<rule id='16' q='Writers should' a='Say what they mean and mean what they say' b='Express things more by use of analogy'>
+</rule>
+
+<rule id='17' q='Facts' a='Speak for themselves' b='Illustrate principles'>
+</rule>
+
+<rule id='18' q='Are visionaries' a='Somewhat annoying' b='Rather fascinating'>
+</rule>
+
+<rule id='19' q='Common sense is' a='Rarely questionable' b='Frequently questionable'>
+</rule>
+
+<rule id='20' q='Children often do not' a='Make themselves useful enough' b='Exercise their fantasy enough'>
+</rule>
+
+<rule id='21' q='Are you more frequently' a='A practical sort of person' b='A fanciful sort of person'>
+</rule>
+
+<rule id='22' q='Are you more likely to' a='See how others are useful' b='See how others see'>
+</rule>
+
+<rule id='23' q='Do you go more by' a='Facts' b='Principles'>
+</rule>
+
+<rule id='24' q='Are you more interested in' a='Production and distribution' b='Design and research'>
+</rule>
+
+<rule id='25' q='Are you more likely to trust your' a='Experience' b='Hunch'>
+</rule>
+
+<rule id='26' q='Do you feel' a='More practical than ingenious' b='More ingenious than practical'>
+</rule>
+
+<rule id='27' q='Do you prize more in yourself' a='A strong sense of reality' b='A vivid imagination'>
+</rule>
+
+<rule id='28' q='Are you drawn more to' a='Fundamentals' b='Overtones'>
+</rule>
+
+<rule id='29' q='In writings do you prefer' a='The more literal' b='The more figurative'>
+</rule>
+
+<rule id='30' q='Is it harder for you to' a='Identify with others' b='Utilize others'>
+</rule>
+
+
+
+
+
+
+<rule id='31' q='Are you more impressed by' a='Principles' b='Emotions'>
+</rule>
+
+<rule id='32' q='Are more drawn toward the' a='Convincing' b='Touching'>
+</rule>
+
+<rule id='33' q='In judging others are you more swayed by' a='Laws than circumstances' b='Circumstances than laws'>
+</rule>
+
+<rule id='34' q='In approaching others is your inclination to be somewhat' a='Objective' b='Personal'>
+</rule>
+
+<rule id='35' q='Which appeals to you more' a='Consistency of thought' b='Harmonious human relationships'>
+</rule>
+
+<rule id='36' q='Are you more comfortable in making' a='Logical judgments' b='Value judgments'>
+</rule>
+
+<rule id='37' q='Are you more often' a='A cool-headed person' b='A warm-hearted person'>
+</rule>
+
+<rule id='38' q='Is it worse to be' a='Unjust' b='Merciless'>
+</rule>
+
+<rule id='39' q='In making decisions do you feel more comfortable with' a='Standards' b='Feelings'>
+</rule>
+
+<rule id='40' q='Are you more' a='Firm than gentle' b='Gentle than firm'>
+</rule>
+
+<rule id='41' q='Which is more satisfying' a='To discuss an issue thoroughly' b='To arrive at agreement on an issue'>
+</rule>
+
+<rule id='42' q='Which rules you more' a='Your head' b='Your heart'>
+</rule>
+
+<rule id='43' q='Which is more of a compliment' a='There is a very logical person.' b='There is a very sentimental person.'>
+</rule>
+
+<rule id='44' q='Do you value in yourself more that you are' a='Unwavering' b='Devoted'>
+</rule>
+
+<rule id='45' q='Which person is more to be complimented – one of' a='Clear reason' b='Strong feeling'>
+</rule>
+
+<rule id='46' q='Are you inclined more to be' a='Fair-minded' b='Sympathetic'>
+</rule>
+
+<rule id='47' q='Which seems the greater error' a='To be too passionate' b='To be too objective'>
+</rule>
+
+<rule id='48' q='Do you see yourself as basically' a='Hard-headed' b='Soft-hearted'>
+</rule>
+
+<rule id='49' q='Which do you wish more for yourself' a='Clarity of reason' b='Strength of compassion'>
+</rule>
+
+<rule id='50' q='Which is the greater fault' a='Being indiscriminate' b='Being critical'>
+</rule>
+
+
+
+
+
+
+<rule id='51' q='Do you prefer to work' a='To deadlines' b='Just whenever'>
+</rule>
+
+<rule id='52' q='Do you tend to choose' a='Rather carefully' b='Somewhat impulsively'>
+</rule>
+
+<rule id='53' q='Are you more' a='Punctual' b='Leisurely'>
+</rule>
+
+<rule id='54' q='Does it bother you more having things' a='Incomplete' b='Completed'>
+</rule>
+
+<rule id='55' q='Do you want things' a='Settled and decided' b='Unsettled and undecided'>
+</rule>
+
+<rule id='56' q='Would you say you are more' a='Serious and determined' b='Easy-going'>
+</rule>
+
+<rule id='57' q='Should one usually let events occur' a='By careful selection and choice' b='Randomly and by chance'>
+</rule>
+
+<rule id='58' q='Do you feel better about' a='Having purchased' b='Having the option to buy'>
+</rule>
+
+<rule id='59' q='Which is more admirable' a='The ability to organize and be methodical' b='The ability to adapt and make do'>
+</rule>
+
+<rule id='60' q='Do you put more value on' a='Infinite' b='Open-minded'>
+</rule>
+
+<rule id='61' q='Are you more comfortable with work that is' a='Contracted' b='Done on a casual basis'>
+</rule>
+
+<rule id='62' q='Do you tend to look for' a='The orderly' b='Whatever turns up'>
+</rule>
+
+<rule id='63' q='Do you more often prefer the' a='Final and unalterable statement' b='Tentative and preliminary statement'>
+</rule>
+
+<rule id='64' q='Are you more comfortable' a='After a decision' b='Before a decision'>
+</rule>
+
+<rule id='65' q='Is it preferable mostly to' a='Make sure things are arranged' b='Just let things happen'>
+</rule>
+
+<rule id='66' q='In relationships should most things be' a='Re-negotiable' b='Random and circumstantial'>
+</rule>
+
+<rule id='67' q='Which situation appeals to you more' a='The structured and scheduled' b='The unstructured and unscheduled'>
+</rule>
+
+<rule id='68' q='Are you a person that is more' a='Routinized than whimsical' b='Whimsical than routinized'>
+</rule>
+
+<rule id='69' q='Do you prefer the' a='Planned event' b='Unplanned event'>
+</rule>
+
+<rule id='70' q='Do you tend to be more' a='Deliberate than spontaneous' b='Spontaneous than deliberate'>
+</rule>
+
+</root>
